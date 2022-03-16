@@ -1,0 +1,1 @@
+A combination of Urllib and Beautiful Soup to scrape items on phones and Tablets web page of Jumia. Information scraped include Product Name, Price and Links to Product information
